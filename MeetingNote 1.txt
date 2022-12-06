@@ -4,7 +4,7 @@ We started finding open source projects to work for understanding the non functi
 First: tensorflow(Machine Learning )
 Following is github link of TenserFlow mobile app https://github.com/tensorflow/tensorflow
 
-Second: Open Source Machine Learning named as Djenago
+Second: Open Source Machine Learning named as Django
 Link of github code of that project is https://github.com/django/django
 
 
